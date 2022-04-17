@@ -2,7 +2,7 @@
 Version=1.0
 Name=Emoji Picker
 Comment=An emoji picker for Gnome based Linux desktops
-Exec=gtk-emoji-chooser
+Exec=gtk-emoji-picker
 Icon=face-smile
 Terminal=false
 StartupNotify=false

@@ -7,6 +7,7 @@ fi
 
 sh uninstall.sh
 
+mkdir /usr/share/gtk-emoji-picker
 cp *.py /usr/share/gtk-emoji-picker/
 chmod 755 -R /usr/share/gtk-emoji-picker/
 
