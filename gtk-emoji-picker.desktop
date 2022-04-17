@@ -2,7 +2,7 @@
 Version=1.0
 Name=Emoji Picker
 Comment=An emoji picker for Gnome based Linux desktops
-Exec=python3 /home/dev/coding/[prog]/Python/Emoji-picker/gtk-emoji-chooser.py
+Exec=gtk-emoji-chooser
 Icon=face-smile
 Terminal=false
 StartupNotify=false
